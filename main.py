@@ -1,3 +1,3 @@
 OblibeneZvire = input("jaké je tvoje oblíbené zvíře?")
 
-print("Tvoje oblíbené zvíře je", OblibeneZvire)
+print("Tvoje oblíbené zvíře je:", OblibeneZvire)
